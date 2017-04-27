@@ -1,0 +1,7 @@
+bin/
+lib/
+obj/
+TODO.txt
+*.cbp
+*.depend
+*.layout
